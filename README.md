@@ -181,7 +181,7 @@ Full Workflow Automation Includes:
 
 Author
 
-Rumana
+Rumana Islam Jui
 Performance Test Engineer
 GitHub: https://github.com/rumanaislamjui-PTE
 
